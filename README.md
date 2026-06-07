@@ -1,0 +1,2 @@
+# afcdn
+ Africa Exams CDN
